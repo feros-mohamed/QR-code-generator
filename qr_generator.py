@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import qrcode
 
 # Ask user to enter a URL
